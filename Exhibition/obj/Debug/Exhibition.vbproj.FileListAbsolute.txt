@@ -1,0 +1,30 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\Exhibition.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\Exhibition.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\Exhibition.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\Exhibition.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Exhibition\obj\Debug\Exhibition.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\Exhibition.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.xml
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\Exhibition.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\Exhibition.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\Exhibition.xml
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Exhibition\Exhibition\obj\Debug\Exhibition.vbproj.GenerateResource.Cache
